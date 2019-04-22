@@ -77,7 +77,7 @@ custom_js:      # Add custom javascript to a page.
   - gallery
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-munky
+theme: jekyll-theme-slate
 gems:
   - jekyll-feed
 

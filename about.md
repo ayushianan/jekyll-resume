@@ -37,7 +37,7 @@ In my free time I love to play games and reading.
   -Algorithms
   
   
- * **Technologies**
+* **Technologies**
   -Django
   
   -Flask

@@ -62,3 +62,13 @@ __Participited__ in table tennis vtu regionals,reached semifinals.
 __Machine Learning by Stanford University,Andrew NG, Coursera__
 
 __Deep Learning Prerequisites: The Numpy Stack in Python, Udemy__
+
+__try Django 1.11 || Python Web Development, Udemy__
+
+__The Unix Workbench by Johns Hopkins University__
+
+__Algorithms by Standford University__
+
+
+## You can also see some of my work on [GitHub](https://github.com/ayushianan).
+

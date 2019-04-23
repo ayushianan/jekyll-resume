@@ -17,9 +17,9 @@ In my free time I love to play games and reading.
 
 * **Education**  
   **B.E.**-9.17 cgpa from Smvit.
-
+  
   **12th**-92.3% from Kendriye vidyalaya,Iffco aonla,Uttar Pradesh.
-
+  
   **10th**-94.8% from St Maria Goretti Inter COllege,Uttar Pradesh.
 
 

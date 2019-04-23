@@ -25,7 +25,7 @@ In my free time I love to play games and reading.
 
 * **Skills**
 
-  -C,
+  -C
   
   -C++
   
@@ -36,6 +36,7 @@ In my free time I love to play games and reading.
   -Data Structures
   
   -Algorithms
+  
   
 * **Technologies**
 

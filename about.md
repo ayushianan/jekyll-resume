@@ -24,6 +24,7 @@ In my free time I love to play games and reading.
 
 
 * **Skills**
+
   -C
   
   -C++
@@ -38,6 +39,7 @@ In my free time I love to play games and reading.
   
   
 * **Technologies**
+
   -Django
   
   -Flask

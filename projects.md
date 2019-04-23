@@ -7,16 +7,6 @@ sidebar: false
 ---
 
 
-## Tools
-
--Atom
-
--Android studio
-
--Firebase
-
-## Projects
-
  __1. Quick Summarizer__
  Converts a Paragraph into it's summary. Used python's ***NLTK***.
 
@@ -30,6 +20,16 @@ __4. React native basic Apps__
 Created a basic React App and integerated ***Google's User login*** using ***Firebase***.
 
 __5. Worked__ on iris,titanic datasests using different scikit models.
+
+
+## Tools
+
+-Atom
+
+-Android studio
+
+-Firebase
+
 
 
 ## Experiences
@@ -57,6 +57,7 @@ __Participated__ in badmintion under vtu regionals,got third place.
 __Participited__ in table tennis vtu regionals,reached semifinals.
 
 
+
 ## Courses
 
 __Machine Learning by Stanford University,Andrew NG, Coursera__
@@ -68,6 +69,7 @@ __try Django 1.11 || Python Web Development, Udemy__
 __The Unix Workbench by Johns Hopkins University__
 
 __Algorithms by Standford University__
+
 
 
 ## You can also see some of my work on [GitHub](https://github.com/ayushianan).

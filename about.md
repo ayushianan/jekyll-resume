@@ -22,12 +22,35 @@ In my free time I love to play games and reading.
 
   **10th**-94.8% from St Maria Goretti Inter COllege,Uttar Pradesh.
 
+
 * **Skills**
-  C,C++,Java.
-
-  Data Structures,Algorithms.
-
-  Django,Flask,Machine Learning,Android,Jekyll.
+  -C
+  
+  -C++
+  
+  -Java
+  
+  -Python
+  
+  -Data Structures
+  
+  -Algorithms
+  
+  
+ * **Technologies**
+  -Django
+  
+  -Flask
+  
+  -Machine Learning
+  
+  -Android
+  
+  -Jekyll
+  
+  -Scikit-learn
+  
+  -NLP
 
 
 * Check the [github repository] for more information.
